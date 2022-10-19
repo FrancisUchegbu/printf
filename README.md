@@ -14,7 +14,7 @@ Where the specifier character at the end is the most significant component, sinc
  Specifier | Output | Example
 ------------ | ------------- |-----------
  c | Character | A
- s | String of characters | Holberton
+ s | String of characters | main
  % | A % followed by another % character will write a single % to the stream| %
   i and d | Signed decimal integer | 98 
  b | Unsigned binary | 10101
